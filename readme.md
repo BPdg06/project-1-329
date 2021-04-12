@@ -1,8 +1,8 @@
 # Project Overview
 
-**PROJECT NAME:** dfadfadfsdfadf
+**PROJECT NAME:** Portfolio Website of Brian Park
 
-**PROJECT AUTHOR:** lkjlkjljlkadfsd
+**PROJECT AUTHOR:** Brian Park
 
 ## Project Schedule
 
@@ -12,21 +12,22 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| MVP & Bug Fixes | Incomplete
+|Day 1| Wireframes / Priority Matric / Timeline | Incomplete
+|Day 1| possible modification on wireframes / Core Application Structure(HTML, CSS) | Incomplete
+|Day 2| Core Application structure / MVP | Incomplete
+|Day 3| MVP $ Bug Fixes | Incomplete
+|Day 4| Review of the structures & modification |Incomplete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+This project is to create my own porfolio website using the HTML and CSS. The website is going to include responsive design which can be adaptive to various screen sizes like mobile, table and desktop. Furthermore, the CSS GRID is going to be used in order to create a multi-column layout and Flexbox to effective visual appearance of the contents for the website.
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
+https://docs.google.com/spreadsheets/d/1x7L4nA2fjjO3LgSizQn75avLHsrnCkwwGNU7RSoIpjE/edit#gid=0
 
 ## Portfolio I want to Emulate
 
@@ -34,24 +35,24 @@ Search and compare at least 3 profile web sites.  Record your findings in the ta
 
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
-| [denisechandler.com](http://www.denisechandler.com/)| landing page animation
-|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
-| [mattfarley.ca](http://mattfarley.ca/) |  layout of the projects
+
+| http://helloaileen.com/#aboutWrapper |layout of the projects & click navigation bar to move to the subject
+| https://www.lianapenn.com/ | Navigation bar & cover on top of the page
+| https://www.made-studio.es/ | cover main page & overall layout of the projects 
+
 
 ---
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
+Desktop 
+https://i.imgur.com/1kzo2Zl.jpg
+https://i.imgur.com/JOqaNuD.jpg
 
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
-
-Wireframing Resources:
-
-- [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
-
+Mobile
+https://i.imgur.com/6R2cKC7.jpg
+https://i.imgur.com/RMvHvZU.jpg
+https://i.imgur.com/vWpyssl.jpg
 
 ## Time/Priority Matrix 
 
@@ -71,14 +72,21 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP (examples)
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Layout of the webpage
+- Hamburgur bar for mobile screen size
+- Responsive design
+- Adding form
+- CSS GRID to strucuture the skills section
+- Navigation bar
+
 
 #### PostMVP 
 
-- Anything else that is not MVP
+- Styling of the page
+- extra modification with sizing
+- interactive banner
+- skills button to move to right/left
+- design my webpage icon on top of nagivation bar
 
 ## Functional Components
 
@@ -89,25 +97,26 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger | H | 1hr | hr |
-| Project Previews | H | 3hr | hr |
-| Regular Nav | H | 1hr | hr |  
-| Adding Form | H | 1.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
-| Working with API | H | 3hrs|  hr | 
-| Responsive | H | 3hr | hr | hr |
-| Social Media Icons | L | 1hr |  hr |
+
+| Project review and approval | H | 1.5hr |    |
+| Hamburger | H | 2hr |    |
+| Navigation Bar | H | 2hr |    |  
+| Layout | H | 2hr|    | 
+| Adding form | M | 2hr |    |
+| CSS GRID(skills section) | H | 3hrs|    | 
+| Responsive Design | H | 3hr |       |
 | Total | H | 15.5hrs| hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Project Hover | L | 3hr | -hr | hr |
-| Banner letters wiggle | L | 1hr | hr |
-| Interactive Banner | M | 4hr | hr |
-| Materialize | H | 4hr | -hr | hr |
+
+| Styling of the page | M | 3hr |   hr |
+| extra styling and modification | L | 2hr |  hr |
+| Interactive Banner | M | 4hr |   hr |
+| skills button to move left/right | H | 4hr |  hr |
 | Bootstrap | H | 4hr | hr |
-| Make own icon | L | 4hr | hr |
+| Webpage icon | L | 3hr | hr |
 | Total | H | 20hrs| hrs |
 
 ## Additional Libraries
