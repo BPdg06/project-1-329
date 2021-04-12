@@ -18,7 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 3| MVP $ Bug Fixes | Incomplete
 |Day 4| Review of the structures & modification |Incomplete
 |Day 5| Final Touches | Incomplete
-|Day 6| Present | Incomplete
+|Day 5| Present | Incomplete
 
 
 ## Project Description
@@ -49,22 +49,34 @@ Desktop
 https://i.imgur.com/1kzo2Zl.jpg
 https://i.imgur.com/JOqaNuD.jpg
 
-Mobile
-https://i.imgur.com/6R2cKC7.jpg
+Tablet
 https://i.imgur.com/RMvHvZU.jpg
 https://i.imgur.com/vWpyssl.jpg
 
+Mobile
+https://i.imgur.com/7dyAdYh.jpg
+https://i.imgur.com/6R2cKC7.jpg
+https://i.imgur.com/eWxmXDx.jpg
+
+
 ## Time/Priority Matrix 
 
-[Link](https://res.cloudinary.com/jkeohan/image/upload/a_270/v1591621734/project1_matrix_ocy5gc_h1kg0m.jpg)
+[Link](https://i.imgur.com/I4sEX25.jpg)
 
-Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
+A – Initial Grid Layout 
+B – Navigation Bar
+C – Hamburger Bar
+D – Flexbox layout project/skills
+E – Adding form 
+F – CSS Grid for skills section
+G – Responsive design
+H – jQuery for projects
+I – Bootstrap hover effect on skills
+J – styling the project/skills/page
+K – extra styling & modification
+L – create/style webpage icon
+M – Interactive/Style banner
 
-Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
-
-Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
-
-Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
 
 ### MVP/PostMVP - 5min
 
@@ -72,19 +84,22 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP (examples)
 
-- Layout of the webpage
-- Hamburgur bar for mobile screen size
+- Grid Layout of the webpage
+- Hamburgur bar for tablet/mobile screen size
+- Navigation bar
+- Flexbox layout projects/skills
 - Responsive design
 - Adding form
+- jQuery for projects
 - CSS GRID to strucuture the skills section
-- Navigation bar
 
 
 #### PostMVP 
 
 - Styling of the page
 - extra modification with sizing
-- interactive banner
+- Bootstrap hover effect on skills
+- interactive/style banner
 - skills button to move to right/left
 - design my webpage icon on top of nagivation bar
 
@@ -98,29 +113,32 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 
-| Project review and approval | H | 1.5hr |    |
-| Hamburger | H | 2hr |    |
-| Navigation Bar | H | 2hr |    |  
-| Layout | H | 2hr|    | 
-| Adding form | M | 2hr |    |
-| CSS GRID(skills section) | H | 3hrs|    | 
-| Responsive Design | H | 3hr |       |
-| Total | H | 15.5hrs| hrs |
+| Project review and approval | H | 1.5hr |  hr |
+| Hamburger Bar | H | 2hr |  hr |
+| Navigation Bar | H | 2hr |  hr |  
+| Bootstrap | H | 3hr |  hr |
+| Flexbox layouts projects/skills | M | 2hr |  hr |
+| Initial Grid Layout | H | 2hr |  hr |
+| Adding form | M | 2hr |  hr |
+| CSS GRID(skills section) | H | 3hrs |  hr |
+| Responsive Design | H | 4hr |  hr |
+| jQuery for projects | H | 3hr |  hr |
+| Total | H | 24.5hrs | hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 
-| Styling of the page | M | 3hr |   hr |
-| extra styling and modification | L | 2hr |  hr |
-| Interactive Banner | M | 4hr |   hr |
-| skills button to move left/right | H | 4hr |  hr |
-| Bootstrap | H | 4hr | hr |
+| Styling of the page | M | 2hr |   hr |
+| extra styling and modification | L | 1hr |  hr |
+| Interactive/Styling Banner | L | 4hr |   hr |
+| skills button to move left/right | H | 3hr |  hr |
+| Bootstrap hover effect on skills | M | 2hr |  hr |
 | Webpage icon | L | 3hr | hr |
-| Total | H | 20hrs| hrs |
+| Total | H | 13hrs| hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
+Bootstrap cards - https://getbootstrap.com/docs/4.0/components/card/
 
 ## Code Snippet
 
