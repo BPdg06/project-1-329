@@ -44,18 +44,11 @@ Link To Site  | One Thing I'd Like To Incorporate |
 
 ## Wireframes
 
-Desktop 
-https://i.imgur.com/1kzo2Zl.jpg
-https://i.imgur.com/JOqaNuD.jpg
+- [Desktop1](https://i.imgur.com/1kzo2Zl.jpg), [Desktop2](https://i.imgur.com/JOqaNuD.jpg)
 
-Tablet
-https://i.imgur.com/RMvHvZU.jpg
-https://i.imgur.com/vWpyssl.jpg
+- [Tablet1](https://i.imgur.com/RMvHvZU.jpg),  [Tablet1](https://i.imgur.com/vWpyssl.jpg)
 
-Mobile
-https://i.imgur.com/7dyAdYh.jpg
-https://i.imgur.com/6R2cKC7.jpg
-https://i.imgur.com/eWxmXDx.jpg
+- [Mobile1](https://i.imgur.com/7dyAdYh.jpg),  [Mobile2](https://i.imgur.com/6R2cKC7.jpg),  [Mobile3](https://i.imgur.com/eWxmXDx.jpg)
 
 
 ## Time/Priority Matrix 
