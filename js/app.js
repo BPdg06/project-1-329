@@ -25,7 +25,17 @@ $.ajax("https://spreadsheets.google.com/feeds/list/1x7L4nA2fjjO3LgSizQn75avLHsrn
 /////////////////////////////////////
 // jQuery to render your projects below
 /////////////////////////////////////
-
+    projects.forEach((project,index) => {
+        console.log(project)
+        let $projectCard = $(`
+            <div>
+                <img src="${project.image}" />
+                <h1>${project.project}</h1>
+                <p>${project.description}</p>
+            </div>
+        `)
+        $('div.project_content').append($projectCard)
+    })
 
 /////////////////////////////////////
 /////////////////////////////////////
