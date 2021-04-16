@@ -12,13 +12,13 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Wireframes / Priority Matric / Timeline | Incomplete
-|Day 1| possible modification on wireframes / Core Application Structure(HTML, CSS) | Incomplete
-|Day 2| Core Application structure / MVP | Incomplete
-|Day 3| MVP & Bug Fixes | Incomplete
-|Day 4| Review of the structures & modification |Incomplete
+|Day 1| Wireframes / Priority Matric / Timeline | complete
+|Day 1| possible modification on wireframes / Core Application Structure(HTML, CSS) | complete
+|Day 2| Core Application structure / MVP | complete
+|Day 3| MVP & Bug Fixes | complete
+|Day 4| Review of the structures & modification | complete
 |Day 5| Final Touches | Incomplete
-|Day 5| Present | Incomplete
+|Day 5| Present | complete
 
 
 ## Project Description
@@ -104,31 +104,33 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Project review and approval | H | 1.5hr | hr |
-| Hamburger Bar | H | 2hr | hr |
-| Navigation Bar | H | 2hr | hr |  
-| Bootstrap | H | 3hr | hr |
-| Flexbox layouts projects/skills | M | 2hr | hr |
-| Initial Grid Layout | H | 2hr | hr |
-| Adding form | M | 2hr | hr |
-| CSS GRID(skills section) | H | 3hrs | hr |
-| Responsive Design | H | 4hr | hr |
-| jQuery for projects | H | 3hr | hr |
-| Total | H | 24.5hrs | hrs |
+| Project review and approval | H | 1.5hr | 1.5hr |
+| Hamburger Bar | H | 2hr | 3hr |
+| Navigation Bar | H | 2hr | 3hr |  
+| Bootstrap | H | 3hr | 3hr |
+| Flexbox layouts projects/skills | M | 2hr | 3hr |
+| Initial Grid Layout | H | 2hr | 3hr |
+| Adding form | M | 2hr | 2.5hr |
+| CSS GRID(skills section) | H | 3hrs | 4.5hr |
+| Responsive Design | H | 4hr | 4.5hr |
+| jQuery for projects | H | 2hr | 2.5hr |
+| Total | H | 23.5hrs | 30.5hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Styling of the page | M | 2hr |  hr |
-| extra styling and modification | L | 1hr | hr |
-| Interactive/Styling Banner | L | 4hr |  hr |
-| skills button to move left/right | H | 3hr | hr |
-| Bootstrap hover effect on skills | M | 2hr | hr |
-| Webpage icon | L | 3hr | hr |
-| Total | H | 15hrs| hrs |
+| Styling of the page | M | 2hr | 3hr |
+| extra styling and modification | L | 1hr | 0.5hr |
+| Interactive/Styling Banner | L | 4hr | 5hr |
+| skills button to move left/right | H | 3hr | 0hr |
+| Bootstrap hover effect on skills | M | 2hr | 0hr |
+| Webpage icon | L | 3hr | 0hr |
+| Total | H | 15hrs| 8.5hrs |
 
 ## Additional Libraries
 Bootstrap cards - https://getbootstrap.com/docs/4.0/components/card/
+Icofont icons - https://icofont.com/icons
+jQuery - https://code.jquery.com/jquery-3.6.0.js
 
 ## Code Snippet
 
@@ -141,7 +143,8 @@ function reverse(string) {
 ```
 
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
+I spent too much time on cover content and navigation bar/hamburger bar with details. Furthermore, I start out with desktop first design and it took more time and struggle to go backwards to make the navigation bar responsive.
+I should have aim for the big picture first in order to manage the restricted time. 
 
 #### SAMPLE.....
 **ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
