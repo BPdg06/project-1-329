@@ -143,9 +143,8 @@ function reverse(string) {
 ```
 
 ## Issues and Resolutions
-I spent too much time on cover content and navigation bar/hamburger bar with details. Furthermore, I start out with desktop first design and it took more time and struggle to go backwards to make the navigation bar responsive.
-I should have aim for the big picture first in order to manage the restricted time. 
+**ISSUES** I spent too much time on cover content and navigation bar/hamburger bar with details. Furthermore, I start out with desktop first design and it took more time and struggle to go backwards to make the navigation bar responsive.
+**RESOLUTION** I should have aim for the big picture first in order to manage the restricted time. 
 
-#### SAMPLE.....
-**ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
-**RESOLUTION**: Missing comma after first object in sources {} object
+## Presentation Recording
+Youtube Link - https://youtu.be/0xoe4QujOCg
