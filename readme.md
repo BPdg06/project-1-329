@@ -17,7 +17,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 2| Core Application structure / MVP | complete
 |Day 3| MVP & Bug Fixes | complete
 |Day 4| Review of the structures & modification | complete
-|Day 5| Final Touches | Incomplete
+|Day 5| Final Touches | partially complete
 |Day 5| Present | complete
 
 
